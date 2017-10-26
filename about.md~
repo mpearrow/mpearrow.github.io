@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Mugshot of MJP.]({{ "/assets/mjp.jpg" | absolute_url }})
+![Mugshot of MJP.]({{site.url}}/assets/mjp.jpg)
 
 I'm Mark J. Pearrow. I live in Dedham, Massachusetts, and I'm originally from Little Rock, Arkansas. 
 
@@ -19,7 +19,7 @@ with the band to the LA headquarters for Philips Media, I met a young software e
 "webcam" on the "web" and it allowed him to look at his favorite houseplant, a succulent, in his apartment, while he was at work.
 I had decided then and there that the Web was dumb. I gave it a second chance eventually.
 
-
+![A succulent. The scourge of the Web.]({{site.url}}/assets/succ.jpg)
 
 
 [clbbn]: http://brightlightsfilm.com/weirdbandnames/#t

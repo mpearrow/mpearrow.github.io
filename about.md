@@ -19,8 +19,14 @@ with the band to the LA headquarters for Philips Media, I met a young software e
 "webcam" on the "web" and it allowed him to look at his favorite houseplant, a succulent, in his apartment, while he was at work.
 I had decided then and there that the Web was dumb. I gave it a second chance eventually.
 
+![A succulent. The scourge of the Web.]({{site.url}}/assets/succ.jpg)
 
-
+While working for the MIT Laboratory for Computer Science (which no longer exists, having been merged along with the
+MIT AI Lab into CSAIL in 2003), I was trying to recover data from a corrupted Excel file for an important
+meeting with DARPA that was happening in an hour. I decided to look up how to do that recovery on the new-fangled
+Microsoft web site, and after 30 very frustrating minutes of looking for an answer, I gave up and resorted to more brute
+force approaches. But in that moment, I decided that there had to be a way to empirically improve the utility of a web site.
+I hit the library (Google was not well-known at this point) and eventually learned about a thing called *usability*. 
 
 [clbbn]: http://brightlightsfilm.com/weirdbandnames/#t
 [wikipedia]: https://en.wikipedia.org/wiki/Techno-Squid_Eats_Parliament
