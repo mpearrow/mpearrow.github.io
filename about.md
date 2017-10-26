@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Mugshot of MJP.]({{ site.url}}/assets/mjp.jpg)
+![Mugshot of MJP.]({{site.url}}/assets/mjp.jpg)
 
 I'm Mark J. Pearrow. I live in Dedham, Massachusetts, and I'm originally from Little Rock, Arkansas. 
 
