@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-26T11:43:36-04:00</updated><id>http://localhost:4000/</id><title type="html">Darkly Splendid Void</title><entry><title type="html">I’m really, really bad at this.</title><link href="http://localhost:4000/blog/random/2017/10/26/i-am-terrible.html" rel="alternate" type="text/html" title="I'm really, really bad at this." /><published>2017-10-26T11:41:53-04:00</published><updated>2017-10-26T11:41:53-04:00</updated><id>http://localhost:4000/blog/random/2017/10/26/i-am-terrible</id><content type="html" xml:base="http://localhost:4000/blog/random/2017/10/26/i-am-terrible.html">&lt;p&gt;For someone who has spent most of his adult career working in Web-related 
+technology, I have never kept a faithful blog or even a consistent 
+brochure-style website. This is partially due to my habit of constantly trying
+new web publishing platforms and tearing down old sites to make way for whatever
+crazy new thing I am evaluating.&lt;/p&gt;
+
+&lt;p&gt;Now is no exception. After more than a decade of drinking the CMS (content management system)
+Kool-Aid, I seem to have gone full-circle back to a static website generator.
+I’m evaluating Jekyll, which is a transformation engine that takes markdown or other 
+similar input formats and transforms it into static HTML. It might seem like a step back
+into the 1990’s. and in some ways, it is. However, very little of what goes on a blog where
+you don’t want comments requires the overhead of a server-side executable framework.&lt;/p&gt;
+
+&lt;p&gt;So, I’m going green for a while, and will see how long it takes before I tear this site down
+and replace it with something new.&lt;/p&gt;</content><author><name></name></author><summary type="html">For someone who has spent most of his adult career working in Web-related technology, I have never kept a faithful blog or even a consistent brochure-style website. This is partially due to my habit of constantly trying new web publishing platforms and tearing down old sites to make way for whatever crazy new thing I am evaluating.</summary></entry></feed>
