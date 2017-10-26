@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+![A mug shot of MJP.](/assets/mjp.jpg)
+***
+
 I'm Mark J. Pearrow. I live in Dedham, Massachusetts, and I'm originally from Little Rock, Arkansas. 
 
 In the 1990's I was in a band whose name made the [Canonical list of Bad Band Names][clbbn] - Techno-Squid Eats Parliament.
