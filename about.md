@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Mugshot of MJP.]({{site.url}}/assets/mjp.jpg)
+<img src="/assets/mjp.jpg" align="left" style="padding: 20px;"  alt="A mugshot of MJP"/>
 
 I'm Mark J. Pearrow. I live in Dedham, Massachusetts, and I'm originally from Little Rock, Arkansas. 
 
@@ -19,9 +19,7 @@ with the band to the LA headquarters for Philips Media, I met a young software e
 "webcam" on the "web" and it allowed him to look at his favorite houseplant, a succulent, in his apartment, while he was at work.
 I had decided then and there that the Web was dumb. I gave it a second chance eventually.
 
-![A succulent. The scourge of the Web.]({{site.url}}/assets/succ.jpg)
-
-<img src="/assets/succ.jpg" align="left" hspace="20" vspace="20" alt="A succulent."/>
+<img src="/assets/succ.jpg" align="left" style="padding: 20px;"  alt="A succulent."/>
 
 While working for the [MIT][mit] Laboratory for Computer Science (which no longer exists, having been merged along with the
 MIT AI Lab into [CSAIL][csail] in 2003), I was trying to recover data from a corrupted Excel file for an important
