@@ -21,6 +21,8 @@ I had decided then and there that the Web was dumb. I gave it a second chance ev
 
 ![A succulent. The scourge of the Web.]({{site.url}}/assets/succ.jpg)
 
+<img src="/assets/succ.jpg" align="left" hspace="20" vspace="20" alt="A succulent."/>
+
 While working for the [MIT][mit] Laboratory for Computer Science (which no longer exists, having been merged along with the
 MIT AI Lab into [CSAIL][csail] in 2003), I was trying to recover data from a corrupted Excel file for an important
 meeting with DARPA that was happening in an hour. I decided to look up how to do that recovery on the new-fangled
